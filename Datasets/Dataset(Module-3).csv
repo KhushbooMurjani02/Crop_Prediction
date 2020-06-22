@@ -1,0 +1,49 @@
+Fert_name,n%,p%,k%,gcd,n(kg),p(kg),k(kg),n_ratio,p_ratio,k_ratio,Physical form,price/50 kg,price/kg,price(100kg)bag,Firm name
+Anhydrous ammonia,82,0,0,82,0.82,0,0,1,0,0,gas,,100,10000,
+Urea,46,0,0,46,0.46,0,0,1,0,0,solid,268,5.36,536,RCF
+ Ammonium Nitrate,34,0,0,34,0.34,0,0,1,0,0,solid,,30,3000,
+Urea Ammonium Nitrate - UAN solutions,32,0,0,32,0.32,0,0,1,0,0,liquid,,42,4200,
+Urea Ammonium Nitrate - UAN solutions,28,0,0,28,0.28,0,0,1,0,0,liquid,,42,4200,
+Diammonium phosphate,18,46,0,2,0.18,0.46,0,9,23,0,solid,1125,22.5,2250,RCF
+Monoammonium phospate,11,55,0,11,0.11,0.55,0,1,5,0,solid,910,18.2,1820,IPL
+Monoammonium phospate,12,51,0,3,0.12,0.51,0,4,17,0,solid,,100,10000,
+Monoammonium phospate,11,48,0,1,0.11,0.48,0,11,48,0,solid,,13.6,1360,
+ Triple superphosphate,0,46,0,46,0,0.46,0,0,1,0,solid,418.6,8.372,837.2,IPL
+ Ammonium phosphate,11,37,0,1,0.11,0.37,0,11,37,0,liquid,,60,6000,
+Ammonium phosphate,10,34,0,2,0.1,0.34,0,5,17,0,liquid,,60,6000,
+potassium chloride,0,0,60,60,0,0,0.6,0,0,1,solid,785,15.7,1570,FACT
+potassium sulfate,0,0,50,50,0,0,0.5,0,0,1,solid,,35,3500,
+potassium nitrate,13,0,44,1,0.13,0,0.44,13,0,44,solid,,52,5200,
+Ammonium Sulphate,20.6,0,0,20.6,0.206,0,0,1,0,0,solid,526.35,10.527,1052.7,FACT
+Ammonium chloride,25,0,0,25,0.25,0,0,1,0,0,solid,435,8.7,870,TAC
+Calcium Ammonium Nitrate,26,0,0,26,0.26,0,0,1,0,0,solid,,25,2500,
+Calcium Nitrate,15.5,0,0,15.5,0.155,0,0,1,0,0,solid,,75,7500,
+SSP,0,14,0,14,0,0.14,0,0,1,0,solid,,8,800,
+SSP,0,16,0,16,0,0.16,0,0,1,0,solid,362,7.24,724,CFL
+Potassium Magnesium Sulphate,0,0,22,22,0,0,0.22,0,0,1,solid,,250,25000,
+Potassium Schoenite,0,0,23,23,0,0,0.23,0,0,1,solid,,31,3100,
+Ammonium Phosphate,11,52,0,1,0.11,0.52,0,11,52,0,solid,,75,7500,
+Ammonium Phosphate,18,46,0,2,0.18,0.46,0,9,23,0,solid,,75,7500,
+Ammonium Phosphate Sulphate,16,20,0,4,0.16,0.2,0,4,5,0,solid,864,17.28,1728,CFL
+Ammonium Phosphate Sulphate,20,20,0,20,0.2,0.2,0,1,1,0,solid,368.94,7.3788,737.88,TEST
+Ammonium Phosphate Sulphate Nitrate,20,20,0,20,0.2,0.2,0,1,1,0,solid,887,17.74,1774,FACT
+Nitrophosphate,20,20,0,20,0.2,0.2,0,1,1,0,solid,770,15.4,1540,RCF
+Urea Ammonium Phosphate,28,28,0,28,0.28,0.28,0,1,1,0,solid,1120,22.4,2240,
+Urea Ammonium Phosphate,24,24,0,24,0.24,0.24,0,1,1,0,solid,,22.4,2240,
+Urea Ammonium Phosphate,20,20,0,20,0.2,0.2,0,1,1,0,solid,,22.4,2240,
+Potassium Nitrate,13,0,45,1,0.13,0,0.45,13,0,45,solid,,53,5300,
+Mono Potassium Phosphate,0,52,34,2,0,0.52,0.34,0,26,17,solid,,90,9000,
+15-15-15,15,15,15,15,0.15,0.15,0.15,1,1,1,solid,739.5,14.79,1479,RCF
+npk10-26-26,10,26,26,2,0.1,0.26,0.26,5,13,13,solid,1031,20.62,2062,CFL
+12-32-16,12,32,16,4,0.12,0.32,0.16,3,8,4,solid,558,11.16,1116,ZUARI
+14-35-14,14,35,14,7,0.14,0.35,0.14,2,5,2,solid,1096,21.92,2192,CFL
+17-17-17,17,17,17,17,0.17,0.17,0.17,1,1,1,solid,927,18.54,1854,MFL
+14-28-14,14,28,14,14,0.14,0.28,0.14,1,2,1,solid,664,13.28,1328,CFL
+19-19-19,19,19,19,19,0.19,0.19,0.19,1,1,1,solid,,262,26200,
+17-17-17,17,17,17,17,0.17,0.17,0.17,1,1,1,solid,,199,19900,
+20/10/2010,20,10,10,10,0.2,0.1,0.1,2,1,1,solid,,15,1500,
+16-16-16,16,16,16,16,0.16,0.16,0.16,1,1,1,solid,368.7,7.374,737.4,IPL
+npk12-11-18,12,11,18,1,0.12,0.11,0.18,12,11,18,solid,,43,4300,
+14-14-21,14,14,21,7,0.14,0.14,0.21,2,2,3,solid,,30,3000,
+21/06/2013,21,6,13,1,0.21,0.06,0.13,21,6,13,solid,,260,26000,
+15/09/2020,15,9,20,1,0.15,0.09,0.2,15,9,20,solid,,276,27600,
